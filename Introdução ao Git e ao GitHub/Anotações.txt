@@ -17,4 +17,4 @@ Comandos do Git
 -Git push: empurar codigo para repositorio remoto
 -Git pull:baixar atualzações do repositorio remoto para local
 -ls -a: mostrar arquivos ocultos
--.gitignore:ignorar arquin=vos ou pasta para repositorio
+-.gitignore:ignorar arquivos ou pasta para repositorio
