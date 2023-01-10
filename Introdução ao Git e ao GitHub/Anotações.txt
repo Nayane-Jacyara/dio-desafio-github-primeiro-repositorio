@@ -1,0 +1,20 @@
+Comandos do Git
+
+-dir: Listrar
+-cd/ :Entrar em uma pasta
+-Cd .. : Volta uma pasta 
+-ctrl+l : Limpar terminal
+-tab : Complentar palavras 
+-Mkdir: Criar uma pasta
+-Echo "msg">nome.txt: criar um arquirvo
+-Del "nome do arquivo": Deleta um arquivo 
+-Rmdir "nome da pasta"/s/q :Deleta pasta
+-Git clone "link" :Clona repositorio
+-Ls: Mostra repositorio
+-Git init: Inicia repositorio 
+-Git add * : adiciona todas alteração no diretório ativo à área de staging para fazer commit
+-Git commit -m "msg": enviar atualzações
+-Git push: empurar codigo para repositorio remoto
+-Git pull:baixar atualzações do repositorio remoto para local
+-ls -a: mostrar arquivos ocultos
+-.gitignore:ignorar arquin=vos ou pasta para repositorio
